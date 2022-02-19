@@ -256,4 +256,4 @@ async def on_message(message):
             await message.channel.send("{}넌 이거 못쓰지롱".format(message.author.mention))
 
 
-client.run('OTAyMTk3OTA4OTA3MTA2MzY0.YXa7Rw.4x1LZa-jTQqJmfdZhXEXH-kwZss')  
+client.run('')  
